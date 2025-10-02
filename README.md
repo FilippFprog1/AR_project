@@ -1,7 +1,3 @@
-        # Название проекта
-
-        Пожалуйста, выберите язык:
-        - [English](README.en.md)
-        - [Русский](README.ru.md)
-
-        # По-русски
+Please select a language:
+        - [English]()
+        - [Русский](https://github.com/FilippFprog1/AR_project/blob/main/README.ru.md)
